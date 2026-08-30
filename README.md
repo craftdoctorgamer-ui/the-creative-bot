@@ -119,4 +119,4 @@ You should see:
 
 ---
 
-*Built by **The Creative Studio** · Powered by Claude AI*
+*Built by **The Creative Studio** · 
